@@ -1,4 +1,4 @@
-
+Cô có thể tự build app bằng file cpp hoặc chạy file exe em đính kèm ạ
 ## Cài đặt
 
 - Đường dẫn (Path):
